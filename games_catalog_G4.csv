@@ -1,0 +1,31 @@
+title,genres,platform,price,rating,reviews_count,release_year,age_rating
+Hades,"Action,Roguelike,Indie",PC,235.71,4.11,216791,2022,E
+Hollow Knight,"Metroidvania,Indie,Platformer",PC,45.37,4.87,348835,2020,16+
+Skyrim,"RPG,Open World,Adventure",PC,239.1,3.68,419954,2016,14+
+Terraria,"Sandbox,Survival,Adventure",PC,278.49,4.4,185713,2015,16+
+Stardew Valley,"Simulation,Farming,Indie",PC,143.16,3.82,46521,2017,18+
+Celeste,"Platformer,Indie,Precision",PC,250.74,4.38,32376,2011,16+
+Portal 2,"Puzzle,Co-op,Sci-Fi",PC,118.27,4.86,223120,2023,16+
+The Witcher 3,"RPG,Open World,Story Rich",PC,73.5,4.15,389302,2016,E
+Counter-Strike 2,"Shooter,Competitive,Multiplayer",PC,62.2,4.46,461302,2020,12+
+Baldur's Gate 3,"RPG,Tactical,Story Rich",PC,110.23,4.02,483771,2010,12+
+God of War,"Action,Adventure,Story Rich",Console,72.05,3.68,343395,2016,10+
+Uncharted 4,"Action,Adventure,Story Rich",Console,206.55,4.11,113841,2011,16+
+Horizon Zero Dawn,"Action,Open World,Adventure",Console,215.07,3.94,384038,2022,12+
+The Last of Us,"Action,Story Rich,Survival",Console,127.49,3.9,402479,2012,16+
+Spider-Man,"Action,Open World,Adventure",Console,58.13,3.78,402547,2009,16+
+Forza Horizon 5,"Racing,Open World,Simulation",Console,205.16,4.49,393568,2013,16+
+Halo Infinite,"Shooter,Sci-Fi,Multiplayer",Console,147.5,4.3,19112,2011,10+
+Bloodborne,"Action,Hardcore,Adventure",Console,206.15,4.16,57707,2022,14+
+Red Dead Redemption 2,"Action,Open World,Story Rich",Console,233.2,4.39,282903,2017,E
+Gran Turismo 7,"Racing,Simulation,Competitive",Console,104.11,3.54,279823,2014,12+
+Free Fire,"Shooter,Multiplayer,Battle Royale",Mobile,14.99,4.07,107685,2024,18+
+Clash Royale,"Strategy,Tower Defense,Multiplayer",Mobile,0.0,3.58,117352,2022,10+
+Candy Crush Saga,"Puzzle,Casual,Match-3",Mobile,14.99,4.43,147150,2011,14+
+Subway Surfers,"Runner,Casual,Arcade",Mobile,4.99,4.43,392057,2015,12+
+Genshin Impact,"RPG,Open World,Anime",Mobile,0.0,3.73,407103,2014,E
+Brawl Stars,"Action,Multiplayer,MOBA",Mobile,0.0,4.51,45478,2020,12+
+PUBG Mobile,"Shooter,Battle Royale,Multiplayer",Mobile,9.99,4.2,81055,2024,E
+Pokemon GO,"AR,Casual,Adventure",Mobile,0.0,4.12,348312,2011,12+
+Among Us,"Party,Multiplayer,Social Deduction",Mobile,0.0,4.38,151105,2018,12+
+Call of Duty Mobile,"Shooter,Multiplayer,Action",Mobile,14.99,3.67,44281,2014,18+
